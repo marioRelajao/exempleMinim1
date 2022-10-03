@@ -1,4 +1,5 @@
 import edu.upc.eetac.dsa.ProductManager;
+import edu.upc.eetac.dsa.ProductManagerImpl;
 import edu.upc.eetac.dsa.models.Order;
 import edu.upc.eetac.dsa.models.Product;
 import org.junit.After;
