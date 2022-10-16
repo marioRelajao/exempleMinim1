@@ -18,4 +18,8 @@ public class User {
         this.surname = surname;
         this.orders = new LinkedList<>();       //Creamos una linked-list vacia
     }
+
+    public List<Order> orders() {
+        return null;
+    }
 }
